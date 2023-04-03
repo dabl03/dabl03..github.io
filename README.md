@@ -1,2 +1,2 @@
-# dabl03..github.io
+# dabl03.github.io
 My personal portfolio
